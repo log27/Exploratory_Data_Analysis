@@ -1,6 +1,6 @@
-# Exploratory analysis of data
+## Exploratory Data Analysis:
 
-Exploratory analysis of 911 calls data using Numpy, Pandas, Matplotlib, Seaborn, Cufflinks, PLotly
+Used python libraries like NumPy, Pandas to analyse the datasets
 
 
 
